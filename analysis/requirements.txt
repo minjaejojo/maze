@@ -1,0 +1,12 @@
+# Versions of the environment the analyses were last verified against
+# (conda env `maze`, Python 3.9.20). The kernel recorded in the notebook
+# metadata (`2025_card`, Python 3.8.16) is no longer available.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+matplotlib==3.9.2
+seaborn==0.13.2
+statsmodels==0.14.4
+scikit-learn==1.5.1
+pingouin==0.5.5
+Pillow==10.0.1
